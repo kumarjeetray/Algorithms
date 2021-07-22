@@ -1,1 +1,1 @@
-2.	WAP to accept the order of n matrices then find out the maximum number of multiplications required to multiply n matrices and print the optimal sequence of parenthesis in order to multiply n matrices. Use the concept of matrix multiplication using dynamic programming.
+WAP to accept the order of n matrices then find out the maximum number of multiplications required to multiply n matrices and print the optimal sequence of parenthesis in order to multiply n matrices. Use the concept of matrix multiplication using dynamic programming.
