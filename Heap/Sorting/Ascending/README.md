@@ -1,6 +1,7 @@
 WAP to implement heap sort algorithm which will sort n integers in ascending order
-TABLE FOR TIME TAKEN    RANGE OF VALUES	TIME
-	     20000                     0.004
+
+- TABLE FOR TIME TAKEN    RANGE OF VALUES(TIME)
+-      20000                     0.004
        25000	                   0.006
        30000	                   0.007
        35000	                   0.009
